@@ -1,0 +1,18 @@
+- title: Email
+  url: mailto:william@embar.io
+  icon: fas fa-envelope
+- title: Twitter
+  url: https://twitter.com/willbenem
+  icon: fab fa-twitter
+- title: GitHub
+  url: https://github.com/williambenembarek
+  icon: fab fa-github
+- title: Linkedin
+  url:  https://linkedin.com/in/williambenembarek
+  icon: fab fa-linkedin
+- title: Instagram
+  url: https://www.instagram.com/benembarekw/
+  icon: fab fa-instagram
+- title: Untappd
+  url: https://untappd.com/user/WillBenEm
+  icon: fab fa-untappd
