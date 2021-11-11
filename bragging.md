@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Bragging
-permalink: /brag/
+permalink: /brag
 ---
 
 Here on this page I will, in no particular order, be listing various achivements that I am proud of!
