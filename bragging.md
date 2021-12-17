@@ -16,6 +16,8 @@ Here on this page I will, in no particular order, be listing various achivements
 
 - CTF Player on Kalmarunionen : Being a CTF player on a Top 10 worldwide team is definitely something I am going to brag about, recent (at time of writing) acomplishments of the team include, Google CTF Hackceler8 participant, 3rd place in ASIS CTF Quals, 4th place Hack.lu CTF 2021, 6th place pbctf 2021.
 
+- [CCTF Vol. 7](https://cryptoctf.org/2021/11/29/cctf-vol-7-aka-cc7f-in-2-rounds/) finals winner.
+
 ## Open Source Projects
 
 - The theme for this site, find it published [here](https://www.github.com/williambenembarek/daydream-theme)
