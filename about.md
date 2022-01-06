@@ -4,7 +4,7 @@ title: Who am I...
 permalink: /
 ---
 
-👋 Hi there! My name is William, I'm an Appsec Engineer at Tradeshift and writing my Thesis at DTU about optimization of swap nodes for Kubernetes vClusters and also a CTF player with [Kalmarunionen](https://ctftime.org/team/114856/)
+👋 Hi there! My name is William, I'm an Appsec Engineer at Tradeshift and writing my Thesis at DTU about optimization of swap nodes for Kubernetes and also a CTF player with [Kalmarunionen](https://ctftime.org/team/114856/)
 
 💻 I'm primarily a DevSecOps engineer, however also have a broad understanding of corporate security, and want to learn more about offensive security, as well as highly technical blue teaming such as malware analysis.
 
