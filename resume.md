@@ -10,7 +10,7 @@ William Ben Embarek
 Education
 ---------
 
-2019-2021 (expected)
+2019-2021
 :   **MSc, Computer Science**; Denmarks Technical University
 
     *MSc Thesis title: Memory optimization in Kubernetes virtual clusters*
@@ -30,8 +30,13 @@ Education
 Experience
 ----------
 
+**Security Specialist - WithSecure :**
+*2022-Present*
+
+Provides high quality technical security such as, but not limited to; application security assessments, penetration testing, red teaming, purple teaming, code reviews, hardware "breaking”, turning this knowledge into helping our customers improve the security of their IT systems, products (hardware or software), processes or premises, Advise customers on complex security issues both verbally and in written form.
+
 **Student Application Security Engineer - Tradeshift :**
-*2020-Present*
+*2020-2022*
 
 Student Engineer in the Application Security Team ensuring a high security maturity level within the organization, tasks include: Bug Bounty triage, development of security related monitoring and alerting, pull request review for product teams, log review, developer training, auditing and development on internal tooling fx: custom static code analysis rules and tooling, internal portals.
 

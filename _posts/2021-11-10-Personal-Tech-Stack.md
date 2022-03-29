@@ -12,6 +12,7 @@ categories: Tech
 
 ## Hardware / Software
 - Keychron K2 with Gateron Browns switches.
+- ZSA Moonlander with Cherry MX Brown switches
 
 #### Laptop
 - Dell XPS 13 9370
@@ -28,7 +29,7 @@ categories: Tech
 - 1Tb M.2 SSD
 - Windows 10 + Heavy usage of WSL
 
-## Programming
+## Text Editing
 
 - VSCode + Remote - WSL for large projects
 - Vim for terminal based projects
