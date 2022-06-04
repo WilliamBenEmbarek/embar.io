@@ -12,15 +12,14 @@ categories: Tech
 
 ## Hardware / Software
 - Keychron K2 with Gateron Browns switches.
-- ZSA Moonlander with Cherry MX Brown switches
+- ZSA Moonlander with Gazzew Boba U4 Silent Tactile switches
 
-#### Laptop
+#### Laptop / CTF Machine
 - Dell XPS 13 9370
 - Intel i7-8565U
 - 16GB LPDDR3
 - 1TB PCIe SSD
-- Arch Linux
-- BSPWM + Polybar + Rofi for DE
+- Parrot OS
 
 #### Desktop
 - Ryzen 7 3700x
