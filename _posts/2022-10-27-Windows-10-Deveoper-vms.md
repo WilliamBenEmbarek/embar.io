@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Windows 10 Developer VMs links"
-date: 2022-01-06 13:52:00 +0100
+date: 2022-10-27 10:51:00 +0100
 categories: Tech
 ---
 
