@@ -22,7 +22,7 @@ plugins:
   - jekyll-feed
   - jekyll-remote-theme
   - jekyll-sitemap
-  - jekyll-seo-tag
+  #- jekyll-seo-tag
   - jemoji
 
 exclude:

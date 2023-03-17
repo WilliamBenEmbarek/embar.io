@@ -10,7 +10,7 @@ William Ben Embarek
 Education
 ---------
 
-2019-2021
+2019-2022
 :   **MSc, Computer Science**; Denmarks Technical University
 
     *MSc Thesis title: Memory optimization in Kubernetes virtual clusters*
@@ -24,7 +24,7 @@ Education
     
     *Course focus on networking, telecommunications and cybersecurity*
 
-20012-2016
+2012-2016
 :   **International Baccalaureate**; International School of Geneva
 
 Experience
@@ -33,7 +33,7 @@ Experience
 **Security Specialist - WithSecure :**
 *2022-Present*
 
-Provides high quality technical security such as, but not limited to; application security assessments, penetration testing, red teaming, purple teaming, code reviews, hardware "breaking”, turning this knowledge into helping our customers improve the security of their IT systems, products (hardware or software), processes or premises, Advise customers on complex security issues both verbally and in written form.
+Security consultant responsible for performing and delivering a wide varity of applicaiton security assessments for clients in various industries; such as Application Security, Network Security, Red Teaming exercises. For application security assessed applications included, but were not limited to websites, mobile applications, desktop applications, IBM z/OS CICS applications and code reviews. Also participated in the Sales process in the form of project scoping. As well as lead intiative for participation in marketing oppertunities with the Danish Cyber Security community and university outreach.   
 
 **Student Application Security Engineer - Tradeshift :**
 *2020-2022*
@@ -87,7 +87,7 @@ Technical Experience
     * Notable team achievements include Defcon CTF Finals under nordic coalition Norsecode, Google CTF Hackceler8 2021 participants, ASIS CTF Finalist.
 
 **Programming Languages I'm comfortable working in**
-:   **Golang:** Primary language used for personal development, currently anticipating the release of generics, should be interesting to see how the community uses it!
+:   **Golang:** Primary language used for personal development!
 
 :   **Java:** You don't really get around not knowing Java.
     Experience working with (in no particular order): Maven, Spring Boot, Java EE, Grails
@@ -96,7 +96,9 @@ Technical Experience
 
 :   **Javascript/Typescript:** Know enough to expand on some web project given to me, don't have enough hands on experience to feel comfortable starting new projects from scratch.
 
-:   Basic Knowledge of **C**, **x86 assembly**, **C#**, **Bash**
+:   **Bash** I know how to use grep sed and awk
+
+:   Basic Knowledge of **C**, **x86 assembly**, **C#**, **Powershell**
 
 
 Other
