@@ -33,7 +33,7 @@ Experience
 **Security Specialist - WithSecure :**
 *2022-Present*
 
-Security consultant responsible for performing and delivering a wide varity of applicaiton security assessments for clients in various industries; such as Application Security, Network Security, Red Teaming exercises. For application security assessed applications included, but were not limited to websites, mobile applications, desktop applications, IBM z/OS CICS applications and code reviews. Also participated in the Sales process in the form of project scoping. As well as lead intiative for participation in marketing oppertunities with the Danish Cyber Security community and university outreach.   
+Security consultant responsible for performing and delivering a wide variety of application security assessments for clients in various industries, including Application Security, Network Security, and Red Teaming Exercises. For application security, I conducted assessments on websites, mobile applications, desktop applications, IBM z/OS CICS applications, and code reviews. I also participated in the sales process by scoping projects and led initiatives for participating in marketing opportunities with the danish cyber security community and university outreach. As well as was responsible for mentoring new employees while my manager was on paternity leave.
 
 **Student Application Security Engineer - Tradeshift :**
 *2020-2022*
