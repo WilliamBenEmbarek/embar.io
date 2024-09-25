@@ -27,40 +27,58 @@ Education
 2012-2016
 :   **International Baccalaureate**; International School of Geneva
 
+Education
+---------
+
+2019-2022
+:   **MSc, Computer Science**; Denmarks Technical University
+
+    *MSc Thesis title: Memory optimization in Kubernetes virtual clusters*
+
+    *Course focus on cybersecurity, ethical hacking, cryptography, IoT*
+
+2016-2019
+:   **BSc, Network Technologies and IT**; Denmarks Technical University
+
+    *BSc Thesis Title: A Blockchain-Based Approach to Distributed LoRa Message Passing*
+    
+    *Course focus on networking, telecommunications and cybersecurity*
+
+2012-2016
+:   **International Baccalaureate**; International School of Geneva
+
 Experience
 ----------
 
-**Security Specialist - WithSecure :**
-*2022-Present*
+**Pentester - TDC NET**
+*2023-Present*
 
-Security consultant responsible for performing and delivering a wide variety of application security assessments for clients in various industries, including Application Security, Network Security, and Red Teaming Exercises. For application security, I conducted assessments on websites, mobile applications, desktop applications, IBM z/OS CICS applications, and code reviews. I also participated in the sales process by scoping projects and led initiatives for participating in marketing opportunities with the danish cyber security community and university outreach. As well as was responsible for mentoring new employees while my manager was on paternity leave.
+Securing critical infrastructure, including mobile networks, Windows and Linux servers, and mobile devices. Conduct penetration testing and red teaming using tools such as Burp Suite, Drozer, Metasploit. Emulating Mitre ATT&CK TTP's. Lead initiatives like an Online Presence Assessment for executive leadership, revamping and maintaining mobile devices for testing, and setting up an internal test mobile network. Provide in-depth security feedback to development teams and mentor junior staff. Certified OSCP, currently pursuing OSCE3.
+
+
+**Security Specialist - WithSecure :**
+*2022-2023*
+
+Delivered a wide range of security assessments across industries, specializing in Application Security, Network Security, and Red Teaming. Performed assessments on websites, mobile, and desktop applications, as well as code reviews. Contributed to the sales process through project scoping and led marketing initiatives within the Danish cybersecurity community, including university outreach. Mentored new employees and assumed additional responsibilities during my manager's paternity leave. Played a key role in reviving the Drozer project, ensuring it now receives regular updates and enhancements.Delivered a wide range of security assessments across industries, specializing in Application Security, Network Security, and Red Teaming. Performed assessments on websites, mobile, and desktop applications, as well as code reviews. Contributed to the sales process through project scoping and led marketing initiatives within the Danish cybersecurity community, including university outreach. Mentored new employees and assumed additional responsibilities during my manager's paternity leave. Played a key role in reviving the Drozer project, ensuring it now receives regular updates and enhancements.
+
 
 **Student Application Security Engineer - Tradeshift :**
 *2020-2022*
 
-Student Engineer in the Application Security Team ensuring a high security maturity level within the organization, tasks include: Bug Bounty triage, development of security related monitoring and alerting, pull request review for product teams, log review, developer training, auditing and development on internal tooling fx: custom static code analysis rules and tooling, internal portals.
-
+Ensured a high security maturity level across the organization. Responsibilities included Bug Bounty triage, security monitoring and alerting, pull request reviews, log reviews, and developer training. Developed and audited internal tools, including custom static code analysis rules and internal portals.Ensured a high security maturity level across the organization. Responsibilities included Bug Bounty triage, security monitoring and alerting, pull request reviews, log reviews, and developer training. Developed and audited internal tools, including custom static code analysis rules and internal portals.
 
 **Student Emerging Technologies Developer - Tradeshift:**
 *2019-2020*
 
-Developed infrastructure to manage internal short term projects on AWS.
-Developed Solidity smart contracts for use across different projects.
-Developed Hyperledger Chain-code for supply chain tracing.
-Initiated my own projects in regards to optimization of internal customer data practices using global ISO standards, which was also used to lay the ground work for several different products.
+Built infrastructure to manage internal short-term projects on AWS. Developed Solidity smart contracts and Hyperledger Chain-code for supply chain tracing. Initiated and led optimization projects on internal customer data practices, based on global ISO standards, which influenced several product developments.Built infrastructure to manage internal short-term projects on AWS. Developed Solidity smart contracts and Hyperledger Chain-code for supply chain tracing. Initiated and led optimization projects on internal customer data practices, based on global ISO standards, which influenced several product developments.
+
 
 
 **Student Developer - Tradeshift:**
 *2018-2019*
 
-Developed services for automation of management of system access,
-team memberships in a large engineering organization. As well as automating certain QA processes.
-Developed services for managing collection of information and announcing releases.
-Developed services for metrics collection for service health.
-Evangelize usage of certain monitoring or QA tools.
-Communicated to and taking in feedback from many development teams across the globe, for
-prioritization purposes.
-Worked directly with the engineering leadership.
+Developed services to automate system access management, team memberships, and QA processes within a large engineering organization. Built tools for information collection, release announcements, and metrics related to service health. Promoted the use of monitoring and QA tools, while gathering feedback from global development teams for prioritization. Worked closely with engineering leadership to align initiatives and ensure effective communication across teams.Developed services to automate system access management, team memberships, and QA processes within a large engineering organization. Built tools for information collection, release announcements, and metrics related to service health. Promoted the use of monitoring and QA tools, while gathering feedback from global development teams for prioritization. Worked closely with engineering leadership to align initiatives and ensure effective communication across teams.
+
 
 **Chairman of The Board - K-Net :**
 *2017-2021*
@@ -81,10 +99,15 @@ Technical Experience
 --------------------
 
 **CTF Player : Kalmar unionen**
-:   CTF Player on a top 10 worldwide CTF Team.
+    CTF player with one of worlds best CTF Teams (Nr 1. globally 2024, Nr 3. Globally 2023)
+    Notable Wins and Placements:
+    Google CTF 2024 - 1st Place
+    Defcon CTF 2023 - 6th Place
+    ASIS CTF Finals 2023 - 1st Place
+    HXP CTF 2022 - 3rd Place
 
-    * Personally focus on : Web, Forensics, Crypto, Misc.
-    * Notable team achievements include Defcon CTF Finals under nordic coalition Norsecode, Google CTF Hackceler8 2021 participants, ASIS CTF Finalist.
+    Apart from competing I've also been responsible for holding internal training regarding mobile security as well as dynamic instrumentation. As well as organizing physical meetups, cabin trips, and trips abroad for events.CTF player with one of worlds best CTF Teams (Nr 1. globally 2024, Nr 3. Globally 2023) Notable Wins and Placements: Google CTF 2024 - 1st Place Defcon CTF 2023 - 6th Place ASIS CTF Finals 2023 - 1st Place HXP CTF 2022 - 3rd Place Apart from competing I've also been responsible for holding internal training regarding mobile security as well as dynamic instrumentation. As well as organizing physical meetups, cabin trips, and trips abroad for events.
+
 
 **Programming Languages I'm comfortable working in**
 :   **Golang:** Primary language used for personal development!
@@ -100,7 +123,6 @@ Technical Experience
 
 :   Basic Knowledge of **C**, **x86 assembly**, **C#**, **Powershell**
 
-
 Other
 ----------------------------------------
 
@@ -108,8 +130,7 @@ Other
 
      * English - Fluent
      * Danish - Fluent
-     * French - High level spoken
-     * Madarin - Low level, need to start duolingo again
+     * French - High level
 
 * Interests
 
