@@ -19,41 +19,15 @@ Securing critical infrastructure, including mobile networks, Windows and Linux s
 **Security Specialist - WithSecure :**
 *2022-2023*
 
-Delivered a wide range of security assessments across industries, specializing in Application Security, Network Security, and Red Teaming. Performed assessments on websites, mobile, and desktop applications, as well as code reviews. Contributed to the sales process through project scoping and led marketing initiatives within the Danish cybersecurity community, including university outreach. Mentored new employees and assumed additional responsibilities during my manager's paternity leave. Played a key role in reviving the Drozer project, ensuring it now receives regular updates and enhancements.Delivered a wide range of security assessments across industries, specializing in Application Security, Network Security, and Red Teaming. Performed assessments on websites, mobile, and desktop applications, as well as code reviews. Contributed to the sales process through project scoping and led marketing initiatives within the Danish cybersecurity community, including university outreach. Mentored new employees and assumed additional responsibilities during my manager's paternity leave. Played a key role in reviving the Drozer project, ensuring it now receives regular updates and enhancements.
+Delivered a wide range of security assessments across industries, specializing in Application Security, Network Security, and Red Teaming. Performed assessments on websites, mobile, and desktop applications, as well as code reviews. Contributed to the sales process through project scoping and led marketing initiatives within the Danish cybersecurity community, including university outreach. Mentored new employees and assumed additional responsibilities during my manager's paternity leave. Played a key role in reviving the Drozer project, ensuring it now receives regular updates and enhancements.
 
 
-**Student Application Security Engineer - Tradeshift :**
+**Application Security Engineer - Tradeshift :**
 *2020-2022*
 
 Ensured a high security maturity level across the organization. Responsibilities included Bug Bounty triage, security monitoring and alerting, pull request reviews, log reviews, and developer training. Developed and audited internal tools, including custom static code analysis rules and internal portals.Ensured a high security maturity level across the organization. Responsibilities included Bug Bounty triage, security monitoring and alerting, pull request reviews, log reviews, and developer training. Developed and audited internal tools, including custom static code analysis rules and internal portals.
 
-**Student Emerging Technologies Developer - Tradeshift:**
-*2019-2020*
 
-Built infrastructure to manage internal short-term projects on AWS. Developed Solidity smart contracts and Hyperledger Chain-code for supply chain tracing. Initiated and led optimization projects on internal customer data practices, based on global ISO standards, which influenced several product developments.Built infrastructure to manage internal short-term projects on AWS. Developed Solidity smart contracts and Hyperledger Chain-code for supply chain tracing. Initiated and led optimization projects on internal customer data practices, based on global ISO standards, which influenced several product developments.
-
-
-
-**Student Developer - Tradeshift:**
-*2018-2019*
-
-Developed services to automate system access management, team memberships, and QA processes within a large engineering organization. Built tools for information collection, release announcements, and metrics related to service health. Promoted the use of monitoring and QA tools, while gathering feedback from global development teams for prioritization. Worked closely with engineering leadership to align initiatives and ensure effective communication across teams.Developed services to automate system access management, team memberships, and QA processes within a large engineering organization. Built tools for information collection, release announcements, and metrics related to service health. Promoted the use of monitoring and QA tools, while gathering feedback from global development teams for prioritization. Worked closely with engineering leadership to align initiatives and ensure effective communication across teams.
-
-
-**Chairman of The Board - K-Net :**
-*2017-2021*
-
-Chairman roles included budget management, group organizational, primary legal contact for external parties, project management of operations group.
-
-**Volunteer Network Administrator - Nybrogaard Kollegiet :**
-*2016-2020*
-
-Network and website administration, development of new features on the nybro.dk website. Deployment of network monitoring systems. Deployment of new Wifi Solution to support 500+ concurrent users
-
-**Sysadmin / Devops - Appstract**
-*2017-2018* 
-
-Took SME consulting company from basically having little to no IT Infrastructure to having a gigabit network, proper wireless coverage, local and Azure AD, Proper Development server infrastructure, creation of secure GPO policies.
 
 Education
 ---------
@@ -93,6 +67,6 @@ instrumentation. As well as organizing physical meetups, cabin trips, and trips 
 
 Languages
 ----------------------------------------
-     * English - Fluent
-     * Danish - Fluent
-     * French - High level
+*    English - Fluent
+*    Danish - Fluent
+*    French - High level
