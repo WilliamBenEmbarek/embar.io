@@ -13,7 +13,7 @@ Experience
 **Pentester - TDC NET**
 *2023-Present*
 
-Securing critical infrastructure, including mobile networks, Windows and Linux servers, and mobile devices. Conduct penetration testing and red teaming using tools such as Burp Suite, Drozer, Metasploit. Emulating Mitre ATT&CK TTP's. Lead initiatives like an Online Presence Assessment for executive leadership, revamping and maintaining mobile devices for testing, and setting up an internal test mobile network. Provide in-depth security feedback to development teams and mentor junior staff. Certified OSCP, currently pursuing OSCE3.
+Secured critical infrastructure, including mobile networks, Windows and Linux servers, and mobile devices. Conducted penetration testing and red teaming using tools such as Burp Suite, Drozer, Metasploit. Emulated Mitre ATT&CK TTP's. Lead initiatives such as External Asset Mapping, Online Presence Assessments for executive leadership setting up an internal test mobile network, Infrastructure maintainence with Ansible. Provided in-depth security feedback to development teams and mentored junior staff. Certified OSCP, pursuing OSCE3.
 
 
 **Security Specialist - WithSecure :**
