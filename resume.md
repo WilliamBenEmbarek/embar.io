@@ -7,53 +7,13 @@ permalink: /resume
 William Ben Embarek
 ============
 
-Education
----------
-
-2019-2022
-:   **MSc, Computer Science**; Denmarks Technical University
-
-    *MSc Thesis title: Memory optimization in Kubernetes virtual clusters*
-
-    *Course focus on cybersecurity, ethical hacking, cryptography, IoT*
-
-2016-2019
-:   **BSc, Network Technologies and IT**; Denmarks Technical University
-
-    *BSc Thesis Title: A Blockchain-Based Approach to Distributed LoRa Message Passing*
-    
-    *Course focus on networking, telecommunications and cybersecurity*
-
-2012-2016
-:   **International Baccalaureate**; International School of Geneva
-
-Education
----------
-
-2019-2022
-:   **MSc, Computer Science**; Denmarks Technical University
-
-    *MSc Thesis title: Memory optimization in Kubernetes virtual clusters*
-
-    *Course focus on cybersecurity, ethical hacking, cryptography, IoT*
-
-2016-2019
-:   **BSc, Network Technologies and IT**; Denmarks Technical University
-
-    *BSc Thesis Title: A Blockchain-Based Approach to Distributed LoRa Message Passing*
-    
-    *Course focus on networking, telecommunications and cybersecurity*
-
-2012-2016
-:   **International Baccalaureate**; International School of Geneva
-
 Experience
 ----------
 
 **Pentester - TDC NET**
 *2023-Present*
 
-Securing critical infrastructure, including mobile networks, Windows and Linux servers, and mobile devices. Conduct penetration testing and red teaming using tools such as Burp Suite, Drozer, Metasploit. Emulating Mitre ATT&CK TTP's. Lead initiatives like an Online Presence Assessment for executive leadership, revamping and maintaining mobile devices for testing, and setting up an internal test mobile network. Provide in-depth security feedback to development teams and mentor junior staff. Certified OSCP, currently pursuing OSCE3.
+Securing critical infrastructure, including mobile networks, Windows and Linux servers, and mobile devices. Conduct penetration testing and red teaming using tools such as Burp Suite, Drozer, Metasploit. Emulating Mitre ATT&CK TTP's. Lead initiatives like an Online Presence Assessment for executive leadership, revamping and maintaining mobile devices for testing, and setting up an internal test mobile network. Provide in-depth security feedback to development teams and mentor junior staff. Certified OSCP, currently pursuing OSCE3.Securing critical infrastructure, including mobile networks, Windows and Linux servers, and mobile devices. Conduct penetration testing and red teaming using tools such as Burp Suite, Drozer, Metasploit. Emulating Mitre ATT&CK TTP's. Lead initiatives like an Online Presence Assessment for executive leadership, revamping and maintaining mobile devices for testing, and setting up an internal test mobile network. Provide in-depth security feedback to development teams and mentor junior staff. Certified OSCP, currently pursuing OSCE3.
 
 
 **Security Specialist - WithSecure :**
@@ -95,43 +55,44 @@ Network and website administration, development of new features on the nybro.dk 
 
 Took SME consulting company from basically having little to no IT Infrastructure to having a gigabit network, proper wireless coverage, local and Azure AD, Proper Development server infrastructure, creation of secure GPO policies.
 
-Technical Experience
---------------------
+Education
+---------
 
-**CTF Player : Kalmar unionen**
-    CTF player with one of worlds best CTF Teams (Nr 1. globally 2024, Nr 3. Globally 2023)
-    Notable Wins and Placements:
-    Google CTF 2024 - 1st Place
-    Defcon CTF 2023 - 6th Place
-    ASIS CTF Finals 2023 - 1st Place
-    HXP CTF 2022 - 3rd Place
+2019-2022
+:   **MSc, Computer Science**; Denmarks Technical University
 
-    Apart from competing I've also been responsible for holding internal training regarding mobile security as well as dynamic instrumentation. As well as organizing physical meetups, cabin trips, and trips abroad for events.CTF player with one of worlds best CTF Teams (Nr 1. globally 2024, Nr 3. Globally 2023) Notable Wins and Placements: Google CTF 2024 - 1st Place Defcon CTF 2023 - 6th Place ASIS CTF Finals 2023 - 1st Place HXP CTF 2022 - 3rd Place Apart from competing I've also been responsible for holding internal training regarding mobile security as well as dynamic instrumentation. As well as organizing physical meetups, cabin trips, and trips abroad for events.
+    *MSc Thesis title: Memory optimization in Kubernetes virtual clusters*
 
+    *Course focus on cybersecurity, ethical hacking, cryptography, IoT*
 
-**Programming Languages I'm comfortable working in**
-:   **Golang:** Primary language used for personal development!
+2016-2019
+:   **BSc, Network Technologies and IT**; Denmarks Technical University
 
-:   **Java:** You don't really get around not knowing Java.
-    Experience working with (in no particular order): Maven, Spring Boot, Java EE, Grails
+    *BSc Thesis Title: A Blockchain-Based Approach to Distributed LoRa Message Passing*
+    
+    *Course focus on networking, telecommunications and cybersecurity*
 
-:   **Python:** For all the automation needs, or for when you just need to hack something together.
-
-:   **Javascript/Typescript:** Know enough to expand on some web project given to me, don't have enough hands on experience to feel comfortable starting new projects from scratch.
-
-:   **Bash** I know how to use grep sed and awk
-
-:   Basic Knowledge of **C**, **x86 assembly**, **C#**, **Powershell**
+2012-2016
+:   **International Baccalaureate**; International School of Geneva
 
 Other
 ----------------------------------------
 
-* Human Languages:
+**CTF Player : Kalmar unionen**
 
+CTF player with one of worlds best CTF Teams (Nr 1. globally 2024, Nr 3. Globally 2023)
+    
+*   Notable Wins and Placements:
+*   Google CTF 2024 - 1st Place
+*   Defcon CTF 2023 - 6th Place
+*   ASIS CTF Finals 2023 - 1st Place
+*   HXP CTF 2022 - 3rd Place
+
+Apart from competing I’ve also been responsible for holding internal training regarding mobile security as well as dynamic
+instrumentation. As well as organizing physical meetups, cabin trips, and trips abroad for events.
+
+Languages
+----------------------------------------
      * English - Fluent
      * Danish - Fluent
      * French - High level
-
-* Interests
-
-    * Breakfast
