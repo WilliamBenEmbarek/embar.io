@@ -13,7 +13,7 @@ Experience
 **Pentester - TDC NET**
 *2023-Present*
 
-Secured critical infrastructure, including mobile networks, Windows and Linux servers, and mobile devices. Conducted penetration testing and red teaming using tools such as Burp Suite, Drozer, Metasploit. Emulated Mitre ATT&CK TTP's. Lead initiatives such as External Asset Mapping, Online Presence Assessments for executive leadership setting up an internal test mobile network, Infrastructure maintainence with Ansible. Provided in-depth security feedback to development teams and mentored junior staff. Certified OSCP, pursuing OSCE3.
+Secured critical infrastructure, including mobile networks, Windows and Linux servers, and mobile devices. Conducted penetration testing and red teaming using tools such as Burp Suite, Drozer, Metasploit. Emulated Mitre ATT&CK TTP's. Lead initiatives such as External Asset Mapping, Online Presence Assessments for executive leadership, setting up an internal test mobile network, infrastructure maintainence with Ansible. Provided in-depth security feedback to development teams and mentored junior staff. Certified OSCP, pursuing OSCE3.
 
 
 **Security Specialist - WithSecure :**
@@ -25,7 +25,7 @@ Delivered a wide range of security assessments across industries, specializing i
 **Student Application Security Engineer - Tradeshift :**
 *2020-2022*
 
-Ensured a high security maturity level across the organization. Responsibilities included Bug Bounty triage, security monitoring and alerting, pull request reviews, log reviews, and developer training. Developed and audited internal tools, including custom static code analysis rules and internal portals.Ensured a high security maturity level across the organization. Responsibilities included Bug Bounty triage, security monitoring and alerting, pull request reviews, log reviews, and developer training. Developed and audited internal tools, including custom static code analysis rules and internal portals.
+Ensured a high security maturity level across the organization. Responsibilities included Bug Bounty triage, security monitoring and alerting, pull request reviews, log reviews, and developer training. Developed and audited internal tools, including custom static code analysis rules and internal portals. Ensured a high security maturity level across the organization. Responsibilities included Bug Bounty triage, security monitoring and alerting, pull request reviews, log reviews, and developer training. Developed and audited internal tools, including custom static code analysis rules and internal portals.
 
 **Student Emerging Technologies Developer - Tradeshift:**
 *2019-2020*
